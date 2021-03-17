@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mihai
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning GitHub
+- 💞️ I’m looking to collaborate on any DevOps project
+- 📫 How to reach me - Teams
